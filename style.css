@@ -1,0 +1,159 @@
+body{
+    margin: 0px;
+    font-family: 'Poppins', sans-serif;
+}
+
+section{
+    height: 1080px;
+}
+
+.intro{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.half-div{
+    width: 30%;
+    padding-top: 13%;
+    float: left;
+}
+
+.half-div-for-middle{
+    padding-top: 20%;
+    padding-left: 28%;
+}
+
+.half-div img{
+    width: 100%;
+}
+
+h1{
+    font-size: 40px;
+    font-weight: 400;
+    margin: 5px;
+}
+
+h2{
+    font-size: 40px;
+    font-weight: 800;
+    color: #EC4C7A;
+    letter-spacing: 5px;
+    margin: 10px;
+}
+
+.for-margin{
+    color: dimgray;
+    margin-bottom: 60px;
+    line-height: 35px;
+}
+
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, #EC5093, #ED4B72);
+    padding: 10px 40px;
+    color: white;
+    border-radius: 5px;
+}
+
+.biography{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.half-div-for-biography-img{
+    width: 30%;
+    padding-left: 10%;
+    padding-top: 8%;
+}
+
+.half-div-for-biography-para{
+    width: 40%;
+    padding-left: 10%;
+    padding-top: 15%;
+}
+
+.latest-work{
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.one-third-div{
+    width: 25%;
+    float: left;
+}
+
+.one-third-div img{
+    width: 100%;
+}
+
+#one{
+    margin-left: 9%;
+}
+
+#two{
+    margin-left: 2%;
+}
+
+#three{
+    margin-left: 2%;
+}
+
+.heading-for-latest-work{
+    text-align: center;
+    padding-top: 7%;
+    padding-bottom: 7%;
+}
+
+.contact{
+    text-align: center;
+    background-image: url(images/footer-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.client-say{
+    padding-top: 10%;
+    padding-bottom: 3%;
+}
+
+h4{
+    font-size: 20px;
+    font-weight: 500;
+    margin: 5px;
+}
+
+h5{
+    color: dimgray;
+    font-weight: 400;
+    margin: 0px;
+}
+
+.lorem-qoute{
+    margin-top: 5%;
+}
+
+.message{
+    background-image: linear-gradient(45deg, #EC5093, #ED4B72);
+    background-size: 20%;
+    width: 50%;
+    margin-left: 25%;
+    border-radius: 5px;
+    color: white;
+}
+
+.leave-me-message{
+    padding-top: 40px;
+    font-size: 12px;
+}
+
+.email{
+    font-size: 30px;
+    padding-bottom: 70px;
+}
+
+footer{
+    text-align: center;
+}
